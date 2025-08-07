@@ -64,8 +64,8 @@ This section provides a complete visual narrative of the research, from problem 
 **`output.png`**: The 99% Value-at-Risk (VaR) calculation for the top 10 detected anomalies, turning abstract scores into actionable financial risk estimates.
 ![99% Value at Risk (VaR) for Top 10 Anomaly Candidates](assets/output.png)
 
-**`output7.jpg`**: The 1-hop neighborhood of a successfully detected phishing node, revealing the classic "hub-and-spoke" topology where a central scam account receives funds from many victims.
-![1-Hop Neighborhood of Detected Phishing Node](assets/output7.jpg)
+**`output7.png`**: The 1-hop neighborhood of a successfully detected phishing node, revealing the classic "hub-and-spoke" topology where a central scam account receives funds from many victims.
+![1-Hop Neighborhood of Detected Phishing Node](assets/output7.png)
 
 **`output1.png`**: An example of the Monte Carlo simulation used to derive robust statistics for a single high-risk account, forming the basis for the VaR calculation.
 ![Monte Carlo Distribution of "Average ETH Sent"](assets/output1.png)
