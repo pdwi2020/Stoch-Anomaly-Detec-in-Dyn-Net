@@ -1,7 +1,7 @@
 # Stoch-Anomaly-Detec-in-Dyn-Net
 # Value-Weighted Graph Embeddings: A Hybrid Framework for High-Precision Ethereum Phishing Detection
 
-**Author:** Paritosh Dwivedi (24MAI0013)
+**Author:** Paritosh Dwivedi (24MAI0013), Prof. Santhi K.
 **Affiliation:** SCOPE Department, Vellore Institute of Technology, Vellore
 **Email:** paritosh.dwivedi2024@vitstudent.ac.in
 
